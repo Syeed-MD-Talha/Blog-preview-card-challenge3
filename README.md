@@ -1,3 +1,4 @@
+# view :https://syeed-md-talha.github.io/Blog-preview-card-challenge3/
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
